@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=DadoView
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DadoView\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getXPosition()
+comment10.params=
+comment10.target=void\ esconder()
+comment11.params=
+comment11.target=void\ mostrar()
+comment2.params=
+comment2.target=int\ getYPosition()
+comment3.params=
+comment3.target=int\ getTama\u00F1o()
+comment4.params=x\ y
+comment4.target=void\ moveTo(int,\ int)
+comment5.params=
+comment5.target=DadoView()
+comment6.params=puntos
+comment6.target=DadoView(int)
+comment7.params=color
+comment7.target=void\ cambiarColorFondo(java.lang.String)
+comment8.params=i
+comment8.target=void\ mostrarValor(int)
+comment9.params=
+comment9.target=void\ acomodar()
+numComments=12
